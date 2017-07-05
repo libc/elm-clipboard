@@ -1,15 +1,15 @@
 {
-    "version": "0.0.1",
+    "version": "1.0.0",
     "summary": "A pipeline-friendly library for building JSON decoders.",
     "repository": "https://github.com/libc/elm-clipboard.git",
     "license": "BSD-3-Clause",
     "source-directories": [
         "src"
     ],
-    "native-modules": true,
     "exposed-modules": [
         "Clipboard"
     ],
+    "native-modules": true,
     "dependencies": {
         "elm-lang/core": "5.0.0 <= v < 6.0.0",
         "elm-lang/html": "2.0.0 <= v < 3.0.0"
